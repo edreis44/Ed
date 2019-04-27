@@ -1,0 +1,14 @@
+group: UIBK - R, S
+
+
+R = {
+	a:string, b:string, c:string
+	'a1'    , 'b1'    , 'c1'    
+	'a3'    , 'b3'    , 'c3'    
+}
+
+S = {
+	c:string, d:string, e:string
+	'c1'    , 'd1'    , 'e1'    
+	'c2'    , 'd2'    , 'e2'    
+}
